@@ -89,7 +89,7 @@ dependencies:
 dependencies:
   library_flutter_password_strengthchecker:
     git:
-      url: https://github.com/Excelsior-Technologies/library_flutter_password_strengthchecker.git
+      url: https://github.com/Excelsior-Technologies-Community/library_flutter_password_strengh_checker.git
 ```
 
 ### CLI Installation
@@ -238,9 +238,7 @@ The strength is calculated based on the following 5 rules:
 
 ## Demo Vedio
 
-```html
 <img src="assets/demo.gif" height="300">
-``` 
 
 
 ## License

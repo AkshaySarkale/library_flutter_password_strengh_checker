@@ -1,7 +1,7 @@
 name: library_flutter_password_strengthchecker
 description: "A new Flutter package project."
 version: 0.0.1
-homepage: https://github.com/AkshaySarkale/library_flutter_password_strengh_checker.git
+homepage: https://github.com/Excelsior-Technologies-Community/library_flutter_password_strengh_checker.git
 
 environment:
   sdk: ^3.12.1
